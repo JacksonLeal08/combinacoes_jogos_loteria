@@ -1,0 +1,7 @@
+n_jogos: 15
+min_score: 65.0
+n_estimators: 500
+n_clusters: 5
+historico_size: 10000
+n_jobs: -1
+dezenas_frias: [4, 8, 16, 23]

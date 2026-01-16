@@ -1,0 +1,10 @@
+n_jogos: 10
+min_score: 72.0
+n_estimators: 1000
+n_clusters: 8
+historico_size: 20000
+target_acertos: [18, 19]
+dezenas_frias: [13, 27, 41, 59, 73, 88]
+setores_quentes: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+faixas_prioritarias: [1-20, 21-40, 41-60, 61-80, 81-100]
+max_dezenas_repetidas: 5 # Número máximo de dezenas repetidas em relação ao último concurso
